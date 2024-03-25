@@ -1,7 +1,7 @@
 # Weather-forcaste
 I've created a project of "Weather web  applicathion" during internship at Bharat Intern. <br/>
 
-<b>Frontend :</b> HTML, CSS, Javascript & API. <br/>
+<b>Frontend :</b> HTML, CSS, Javascript, Bootstrap & API. <br/>
 
 **Home page :**
 
